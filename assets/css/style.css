@@ -1561,3 +1561,7 @@ section {
   color: #fff;
   text-decoration: none;
 }
+.course-img{
+  width:400px;
+  height:150px
+}
